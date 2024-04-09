@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 .idea/
 .*.crc
+
+.ipynb_ch*
