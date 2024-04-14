@@ -24,15 +24,22 @@ numpy==1.26.4
     #   contourpy
     #   matplotlib
     #   pandas
+    #   patsy
     #   scikit-learn
     #   scipy
     #   seaborn
+    #   statsmodels
 packaging==24.0
-    # via matplotlib
+    # via
+    #   matplotlib
+    #   statsmodels
 pandas==2.2.2
     # via
     #   -r requirements.in
     #   seaborn
+    #   statsmodels
+patsy==0.5.6
+    # via statsmodels
 pillow==10.3.0
     # via matplotlib
 pyparsing==3.1.2
@@ -49,10 +56,15 @@ scipy==1.13.0
     # via
     #   -r requirements.in
     #   scikit-learn
+    #   statsmodels
 seaborn==0.13.2
     # via -r requirements.in
 six==1.16.0
-    # via python-dateutil
+    # via
+    #   patsy
+    #   python-dateutil
+statsmodels==0.14.1
+    # via -r requirements.in
 threadpoolctl==3.4.0
     # via scikit-learn
 tzdata==2024.1
