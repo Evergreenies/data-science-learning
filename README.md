@@ -9,3 +9,4 @@ Primary focus to practice PySpark for Data Engineering.
 - [Maths Roadmap](https://docs.google.com/spreadsheets/d/10spJMs0Zmv5cugfFjJVc4MudyOVjl_16Ef5z54oxqnM/edit#gid=241859416)
 - [Datasets](https://drive.google.com/drive/folders/1IfYgDQzE8B_VOAik6Qha06Ok-NXLb98q)
 - [DS Resourse 1](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Practical%20Statistics%20for%20Data%20Scientists.pdf)
+- [CampusX Github 100 Days of ML](https://github.com/campusx-official/100-days-of-machine-learning)
